@@ -1,3 +1,3 @@
 # JavaScript
 <br>
-Java Script course 
+Java Script Course 
